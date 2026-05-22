@@ -51,7 +51,7 @@ Analiza a demonstrat faptul că sezonalitatea, promoțiile comerciale și difere
 - scikit-learn
 - statsmodels
 
-#Studentis
+#Studenti
 
 - Andrei Maria
 - Bezuscu Victoria
