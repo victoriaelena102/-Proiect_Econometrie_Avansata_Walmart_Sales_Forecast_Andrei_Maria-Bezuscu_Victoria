@@ -1,5 +1,7 @@
 # -Proiect_Econometrie_Avansata_Walmart_Sales_Forecast_Andrei_Maria-Bezuscu_Victoria
  Proiect_Econometrie_Avansata_Walmart_Sales_Forecast_Andrei_Maria+Bezuscu_Victoria.ipynb
+
+ 
 #Obiectivul proiectului
 
 Scopul principal al cercetării este identificarea factorilor economici, sezonieri și promoționali care influențează nivelul vânzărilor și construirea unor modele predictive capabile să estimeze cât mai precis evoluția acestora.
